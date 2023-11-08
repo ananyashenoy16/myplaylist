@@ -85,7 +85,7 @@ nav ul li{
 .songItem{
     height:50px;
     display:flex;
-    width:320px;
+    width:350px;
     background-color: white;
     margin: 20px 0;
     color:black;
@@ -107,7 +107,7 @@ nav ul li{
 }
 
 .songItemContainer{
-    margin-top: 50px;
+    margin-top: 40px;
 }
 .songInfo{
     position:absolute;
