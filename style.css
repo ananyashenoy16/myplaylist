@@ -40,6 +40,9 @@ nav ul li{
     font-weight:bold;
     font-size: 1.3rem;
 }
+.mylogo{
+    border-radius: 50%;
+}
 
 .container{
     height: 500px;
@@ -47,7 +50,7 @@ nav ul li{
     color: white;
     font-family:'Varela Round',sans-serif ;
     display: flex;
-    width:50%;
+    width:70%;
     border-radius: 12px;;
     margin:23px auto;
     padding:34px;
